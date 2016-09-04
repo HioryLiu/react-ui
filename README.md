@@ -3,7 +3,7 @@ Based on the react to maintain a set of ionic style of reusable component librar
 ## Installation
 
 ```
-npm install fruit-ui
+npm install cxui
 ```
 
 [React-design](http://www.react-d.com)
@@ -11,16 +11,13 @@ npm install fruit-ui
 ## Show
 ![demo](http://g.recordit.co/lWR00hs6o1.gif)   
 
-## Phone preview
-![image](https://cloud.githubusercontent.com/assets/9276376/17802302/06531f8a-6622-11e6-8346-4de63e5ebb36.png)
-
 
 [demo体验](http://demo.react-d.com/#/?_k=qgj3q0)
 
 ## Downloads
 
 ```
-git clone https://github.com/react-design/react-ui.git
+git clone https://github.com/HioryLiu/react-ui.git
 ```
 
 ## Install dependencies
