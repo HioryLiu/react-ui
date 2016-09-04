@@ -8,9 +8,6 @@ npm install cxui
 
 [React-design](http://www.react-d.com)
 
-## Show
-![demo](http://g.recordit.co/lWR00hs6o1.gif)   
-
 
 [demo体验](http://demo.react-d.com/#/?_k=qgj3q0)
 
